@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/ghostjson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghostjson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imakhilravindran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imakhilravindran" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12051638/akhil-ravindran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12051638/akhil-ravindran" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12051638/akhil-ravindran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12051638/akhil-ravindran" height="30" width="40" /></a>
 <a href="https://instagram.com/ghostjson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghostjson" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghostjson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghostjson" height="30" width="40" /></a>
 </p>
