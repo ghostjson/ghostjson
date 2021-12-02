@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Akhil Ravindran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **<a href="mailto:imakhilravindran@gmail.com">imakhilravindran@gmail.com</a>**
 
