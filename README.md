@@ -1,7 +1,7 @@
 ![image](https://github.com/ghostjson/ghostjson/blob/master/dino.gif)
 
 
-<h1 align="center">Hi 👋, I'm Akhil Ravindran</h1>
+<h1 >Hi 👋, I'm Akhil Ravindran</h1>
 
 - 📫 How to reach me **<a href="mailto:imakhilravindran@gmail.com">imakhilravindran@gmail.com</a>**
 
